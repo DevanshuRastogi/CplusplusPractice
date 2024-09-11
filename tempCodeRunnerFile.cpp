@@ -1,0 +1,2 @@
+ cout<<leftToRightSum;
+    cout<<rightToLeftSum;
